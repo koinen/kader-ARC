@@ -1,1 +1,2 @@
-a
+2. git rebase adalah alternatif dari penggabungan branch dengan main/ master. Berbeda dengan git merge, git rebase menggabungkan commit-commit branch menjadi satu kontinutias lurus dengan commit main, dan menghapus branch yang sudah tergabungkan.
+git rebase juga dapat dilakukan pada branch untuk meng-update titik awal branch yang ada ke commit terakhir yang ada pada main.

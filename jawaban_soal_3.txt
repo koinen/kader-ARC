@@ -1,1 +1,3 @@
-a
+3.
+fork adalah membuat repository baru dari suatu repository yang sudah ada. fork berguna untuk menambahkan fitur/ ide lain sebelum ditambahkan ke dalam repository originalnya.
+pull request adalah request untuk meng-merge branch dengan branch lain atau main. Pull request ada agar code branch dapat direview terlebih dahulu sebelum dimerge dengan main. Hanya owner/ admin repository yang dapat meng-approve pull request untuk me-merge.  
