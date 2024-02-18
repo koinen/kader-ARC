@@ -1,1 +1,2 @@
-1. 
+1. merge conflict adalah problem yang terjadi ketika penggabungan (merging) antara suatu branch dengan main/ branch lain dan mengandung perbedaan edit pada satu file dan suatu line (bisa lebih dari 1) yang sama [contoh: line 19, pada file "1.txt" pada branch 1: "bbb", sedangkan line 19, pada file "1.txt" pada branch 2: "aaa"].
+Cara untuk me-resolve merge conflict ini adalah dengan memilih edit yang mana (bisa salah satu maupun semuanya) yang ingin digunakan/ disimpan. Hal ini dapat dilakukan dalam web github sendiri, maupun dalam lokal.
